@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Positive Case</description>
+   <name>Sukses Login</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5973656d-841c-4e14-8b67-839e208e0ff9</testCaseGuid>
+</TestCaseEntity>

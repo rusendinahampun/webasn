@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Negative Case</description>
+   <name>Login Username Kosong</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b7a1bd19-cbdf-4676-babe-0499db41939d</testCaseGuid>
+</TestCaseEntity>
